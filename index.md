@@ -1,81 +1,105 @@
-# PRIVACY POLICY MODEL FOR MOBILE APPLICATIONS
+# Privacy Policy for Food Cost Calculator
 
- 
+_Last updated: August 23, 2025_  
 
-This privacy policy governs your use of the software application (“Application”) for mobile devices that was created by . The Application is Food Cost Calculator, tool application which simplifies calculating cost of products with it's waste and tax. 
+Food Cost Calculator (“Application”, “App”, “we”, “our”, or “us”) is a mobile application for Android devices that simplifies calculating the cost of food products. 
+This Privacy Policy explains how we collect, use, and protect your information when you use the App.  
 
+---
 
-## Data Storage and Security
+## 1. Data Collection and Usage
 
-User data collected by the Food Cost Calculator App is stored locally using a Room database. Please note that currently, the data is not encrypted. We take reasonable measures to protect user information against unauthorized access, alteration, disclosure, or destruction.
+### a) User-Provided Data  
+- Data you enter (e.g., product names, costs, taxes, waste values) is stored **locally on your device** using a Room database.  
+- This data is not transmitted to us or third parties.  
+- Currently, this local data is **not encrypted**.  
 
-## Automatically Collected Information 
+### b) Automatically Collected Data  
+We use third-party services to collect information about how the App is used:  
 
-We may collect the following information from Users:
+- **Firebase Analytics (Google LLC)** – collects anonymized usage data to help us understand app performance and improve features.  
+- **AdMob (Google LLC)** – displays ads and may collect device identifiers, IP address, and interaction data for personalized or non-personalized advertising.  
+- **Google Play Billing** – processes subscriptions and in-app purchases. Google may collect purchase-related information (we do not store payment details).  
 
-Non-Personal Information: The App may collect non-personal information, such as device information and app usage data, which may be collected automatically or through third-party services like Google Analytics for market investigation purposes.
- 
- 
-## Does the Application collect precise real time location information of the device?
+The information collected may include:  
+- Device information (model, operating system, identifiers).  
+- App usage statistics (screens visited, actions taken).  
+- Advertising identifiers for ad personalization.  
 
- 
-This Application does not collect precise information about the location of your mobile device. 
+---
 
- 
-## Do third parties see and/or have access to information obtained by the Application?
+## 2. Purchases and Subscriptions
+The App offers:  
+- A **premium subscription**.  
+- Potential one-time purchases in the future.  
 
- 
+Purchases are handled securely via **Google Play Billing**.  
+We do not process or store your payment card details. For details on how Google handles data, please see [Google’s Privacy Policy](https://policies.google.com/privacy).  
 
-Only aggregated, anonymized data is periodically transmitted to external services to help us improve the Application and our service. We will share your information with third parties only in the ways that are described in this privacy statement.
+---
 
-## We may disclose User Provided and Automatically Collected Information:
+## 3. Data Sharing and Disclosure
+We may share information in the following ways:  
 
-    as required by law, such as to comply with a subpoena, or similar legal process;
+- **With Google (Firebase, AdMob, Play Services)** for analytics, advertising, and billing.  
+- **As required by law** (e.g., subpoenas, government requests).  
+- **To protect rights and safety** (fraud prevention, security).  
+- **If our business is transferred** (merger, acquisition, or sale).  
 
-    when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
+We do not sell your personal data.  
 
-    with our trusted services providers who work on our behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+---
 
-    if  is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of this information, as well as any choices you may have regarding this information.
+## 4. Data Retention
+- Local data you provide remains on your device until you uninstall the App or manually delete it.  
+- Firebase Analytics and AdMob data may be retained by Google according to their policies.  
+- We retain anonymized analytics data for up to **24 months**.  
 
- 
+---
 
- 
-## What are my opt-out rights?
+## 5. Opt-Out Rights
+You can:  
+- Disable analytics or ad personalization in your device’s **Google Settings**.  
+- Stop all data collection by uninstalling the App.  
+- Contact us (see below) to request deletion of analytics data associated with your account/device, subject to technical feasibility.  
 
- 
+---
 
-You can stop all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network. You can also request to opt-out via email, at .
+## 6. Children’s Privacy
+The App is **not directed to children under 13 years of age**, and we do not knowingly collect data from children.  
 
- 
-## Data Retention Policy, Managing Your Information
+- If you are a parent/guardian and believe your child has provided data, please contact us and we will delete it.  
+- In the European Economic Area (EEA), the App is not intended for children under **16**.  
 
-We will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. We will retain Automatically Collected information for up to 24 months and thereafter may store it in aggregate. If you’d like us to delete User Provided Data that you have provided via the Application, please contact us at privacy@applicationsite.com and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.
+---
 
- 
-## Children
+## 7. Security
+We use reasonable measures to safeguard information, including:  
+- Limiting access to authorized personnel.  
+- Using secure communication with third-party services.  
 
- 
+Please note that **no system can guarantee complete security**.  
 
-We do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at privacy@applicationsite.com . We will delete such information from our files within a reasonable time.
- 
-Security
+---
 
- 
+## 8. International Data Transfers
+Our third-party providers (Google services) may process data in the **United States** or other countries outside your residence.  
+By using the App, you consent to such transfers, which comply with applicable privacy laws.  
 
-We are concerned about safeguarding the confidentiality of your information. We provide physical, electronic, and procedural safeguards to protect information we process and maintain. For example, we limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve our Application. Please be aware that, although we endeavor provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.
+---
 
- 
-Changes
+## 9. Changes to This Policy
+We may update this Privacy Policy from time to time.  
+Changes will be posted in the App and/or on our website.  
+Continued use of the App means you accept the updated policy.  
 
-This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here and informing you via email or text message. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes. You can check the history of this policy by Insert the link of the version history on Docracy, available under.
+---
 
- 
-## Your Consent
+## 10. Contact Us
+If you have any questions about this Privacy Policy, please contact us:  
 
-By using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing,” means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the United States. If you reside outside the United States your information will be transferred, processed and stored there under United States privacy standards. 
+📧 **rudsooon@gmail.com**  
 
- 
-## Contact us
+---
 
-If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at rudsooon@gmail.com .
+This Privacy Policy is intended to comply with **GDPR, CCPA, COPPA, and Google Play’s policies**.  
