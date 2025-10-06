@@ -1,6 +1,6 @@
 # Privacy Policy for Food Cost Calculator
 
-_Last updated: August 23, 2025_  
+_Last updated: October 6, 2025_  
 
 Food Cost Calculator (“Application”, “App”, “we”, “our”, or “us”) is a mobile application for Android devices that simplifies calculating the cost of food products. 
 This Privacy Policy explains how we collect, use, and protect your information when you use the App.  
@@ -24,7 +24,15 @@ We use third-party services to collect information about how the App is used:
 The information collected may include:  
 - Device information (model, operating system, identifiers).  
 - App usage statistics (screens visited, actions taken).  
-- Advertising identifiers for ad personalization.  
+- Advertising identifiers for ad personalization.
+
+### c) Anonymized Data for Service Improvement (Smart Pantry)
+To improve our services and provide a better user experience, we have a feature called "Smart Pantry" which suggests common ingredients to you.
+
+What We Collect: When you create a new, unique ingredient in the app, we may collect a copy of that ingredient's name, unit of measurement, waste percentage, and input method (e.g., "by package").
+How We Use It: This data is used to build a global, pre-populated database of common ingredients. This allows us to provide helpful suggestions to all our users, making data entry faster and easier.
+It is Completely Anonymous: The ingredient data we collect is fully anonymized and cannot be linked back to you or your device. We do not collect your prices, costs, or any personally identifiable information with this data.
+By using the App, you agree to the collection of this anonymous data for the purpose of service improvement.
 
 ---
 
