@@ -1,1 +1,1 @@
-Page of privacy policy for my app.
+Page of privacy policy for Food Cost Calculator.
